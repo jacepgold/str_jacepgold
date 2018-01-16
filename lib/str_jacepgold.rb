@@ -1,4 +1,5 @@
 require "str_jacepgold/version"
+require "str_jacepgold/greetings"
 
 module StrJacepgold
   def self.reversify(str)
